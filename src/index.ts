@@ -1,3 +1,3 @@
-import initServer from "./application/server";
+import initServer from "./cars/application/server";
 
 initServer.listenServer();
